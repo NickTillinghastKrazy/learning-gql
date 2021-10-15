@@ -12,7 +12,7 @@ const users = [
     { id: '21', firstName: 'Amber', age: 41},
     { id: '19', firstName: 'Scarlett', age: 5},
     { id: '7', firstName: 'Cora', age: 5},
-    { id: '9', firstName: 'Kinley', age: 6},
+    { id: '9', firstName: 'Kinley', age: 7},
 ]
 
 
